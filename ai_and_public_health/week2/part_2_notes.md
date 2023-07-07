@@ -1,4 +1,5 @@
 # Project: Air Quality
+- ![about_air_polution](images/about_air_polution.png)
 - You'll dive into the case study: estimating pollution levels throughout the city of Bogota
     - Pollution is a major public health issue and millions of people die each year due to prolonged exposure to polluted air. 
     - We are going to be looking at estimated air pollution in Bogota, Columbia for citizens and public health professionals.
